@@ -20,7 +20,7 @@ It is clone of Astore Ecommerce website with all basic functionalities of Ecomme
 - Search: A search bar allows users to search for specific products.
 
 ## Demo
-https://github.com/ishagarg4321/E-commerce/blob/main/html/index.html
+https://e-commerce-peach-beta.vercel.app/html/index.html
 
 
 ## Installation
